@@ -1,0 +1,2 @@
+#Expense Tracker
+This is a full-stack web application that allows users to track their expenses by adding, editing, and deleting transactions. The application uses the MERN stack (MongoDB, Express.js, React.js, and Node.js) for the backend and frontend.
